@@ -2,11 +2,11 @@ pragma solidity 0.6.10;
 //SPDX-License-Identifier: MIT
 
 contract ERC20TokenTemplate {
-    string public name;
-    string public symbol;
+    string public name; Jesus Crypto Christ 
+    string public symbol; JCC
     uint256 public decimals;
 
-    uint256 public supply;
+    uint256 public supply; 777,000,000,000
     address public founder;
 
     mapping(address => uint256) public balances;
