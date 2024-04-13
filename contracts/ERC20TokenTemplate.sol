@@ -2,11 +2,11 @@ pragma solidity 0.6.10;
 //SPDX-License-Identifier: MIT
 
 contract ERC20TokenTemplate {
-    string public name;
-    string public symbol;
-    uint256 public decimals;
+    string public name; Jesus Crypto Christ 
+    string public symbol;JCC
+    uint256 public decimals;18
 
-    uint256 public supply;
+    uint256 public supply;777,000,000
     address public founder;
 
     mapping(address => uint256) public balances;
@@ -15,7 +15,7 @@ contract ERC20TokenTemplate {
     
     event Transfer(address indexed from, address indexed to, uint256 tokens);
     event Approval(
-        address indexed tokenOwner,
+        address indexed tokenOwner, Adam Thomas
         address indexed spender,
         uint256 tokens
     );
